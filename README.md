@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋<br>
 
 <!--
 **z5725828/z5725828** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🔭 I’m currently working on ML Finance Project
-🌱 I’m currently learning Agentic AI
-🤔 I’m looking for help with QSKit
-📫 How to reach me: z5725828@ad.unsw.edu.au
+🔭 I’m currently working on ML Finance Project<br>
+🌱 I’m currently learning Agentic AI<br>
+🤔 I’m looking for help with QSKit<br>
+📫 How to reach me: z5725828@ad.unsw.edu.au<br>
