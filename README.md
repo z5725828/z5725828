@@ -1,4 +1,4 @@
-##[Insert Jumpscare] 👋<br>
+##If someone reading this 🙊<br>
 
 <!--
 **z5725828/z5725828** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,4 +18,5 @@ Here are some ideas to get you started:
 🌱 I’m currently learning Agentic AI, Quantum Computing<br>
 🤔 I’m looking for help with QSKit<br>
 📫 How to reach me: z5725828@ad.unsw.edu.au<br>
+🇹🇭🇹🇭🇹🇭
 
